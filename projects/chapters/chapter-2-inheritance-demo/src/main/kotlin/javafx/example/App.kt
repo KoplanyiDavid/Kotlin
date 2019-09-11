@@ -11,13 +11,13 @@ import javafx.stage.Stage
 import kotlin.random.Random
 
 fun main() {
-    launch(JavaFXExample::class.java)
+    launch(UfoApplication::class.java)
 }
 
 const val CANVAS_WIDTH = 1280.0
 const val CANVAS_HEIGHT = 720.0
 
-class JavaFXExample : Application() {
+class UfoApplication : Application() {
     override fun start(primaryStage: Stage) {
         val layout = VBox()
         val canvas = Canvas(CANVAS_WIDTH, CANVAS_HEIGHT)
