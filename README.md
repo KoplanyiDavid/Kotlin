@@ -7,7 +7,21 @@
 - [Chapter 3: Nullability](./material/3.md)
 - [Chapter 4: Functional Programming and Collections](./material/4.md)
 - [Chapter 5: Functions, Functions, Functions!](./material/5.md)
+- More to come...
 
 ## Requirements
 
-TODO
+- Test (ZH), 50 pts. (min. 40%)
+    - 6th of December, instead the regular lecture (week 13)
+    - 2019.12.06. 12:15
+- Homework, 50 pts (min. 40%)
+    - Specification by the 8th of November (week 9)
+    - Final hand-in by the 13th of December (week 14)
+    - [Homework ideas (continuously updated)](./homework.md)
+
+Minimum scores for grades: 
+
+- 2: 40 pts
+- 3: 55 pts
+- 4: 70 pts
+- 5: 85 pts
