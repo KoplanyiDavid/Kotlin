@@ -12,7 +12,7 @@
 ## Requirements
 
 - Test (ZH), 50 pts. (min. 40%)
-    - 6th of December, instead the regular lecture (week 13)
+    - 6th of December, instead of the regular lecture (week 13)
     - 2019.12.06. 12:15
 - Homework, 50 pts (min. 40%)
     - Specification by the 8th of November (week 9)
