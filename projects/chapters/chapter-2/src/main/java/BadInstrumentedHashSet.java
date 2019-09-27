@@ -3,7 +3,7 @@ import java.util.HashSet;
 
 public class BadInstrumentedHashSet<E> extends HashSet<E> {
     // The number of attempted element insertions
-    int addCount = 0;
+    public int addCount = 0;
 
     @Override
     public boolean add(E e) {
