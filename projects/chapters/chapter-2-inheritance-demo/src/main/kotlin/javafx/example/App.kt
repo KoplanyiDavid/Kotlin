@@ -14,8 +14,8 @@ fun main() {
     launch(UfoApplication::class.java)
 }
 
-const val CANVAS_WIDTH = 1280.0
-const val CANVAS_HEIGHT = 720.0
+const val CANVAS_WIDTH = 800.0
+const val CANVAS_HEIGHT = 600.0
 
 class UfoApplication : Application() {
     override fun start(primaryStage: Stage) {
@@ -96,10 +96,7 @@ class Game {
         canvas.graphicsContext2D.fillRect(0.0, 0.0, canvas.width, canvas.height)
 
         for (entity in entities) {
-            if (entity !is Renderable) {
-                continue
-            }
-            if (entity.isVisible) {
+            if (entity is Renderable && entity.isVisible) {
                 entity.render(canvas)
             }
         }
