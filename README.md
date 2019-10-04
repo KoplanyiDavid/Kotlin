@@ -8,7 +8,11 @@
 - [Chapter 4: Functional Programming](./material/4.md)
 - [Chapter 5: Collections](./material/5.md)
 - [Chapter 6: Functions, Functions, Functions!](./material/6.md)
-- Chapter 7: Standard Library
+- Chapter 7: Standard Library Showcase
+- Chapter 8: Operators, Conventions, and Delegates
+- Chapter 9: Type System and Generics
+- Chapter 10: Coroutines
+- Chapter 11: DSLs
 - More to come...
 
 ## Requirements
