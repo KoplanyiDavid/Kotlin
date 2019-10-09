@@ -2,6 +2,8 @@
 
 Here's a list of possible homework ideas. These are here to give you pointers on the kinds of applications you may choose to create. You can choose modified versions of these ideas, or completely custom ideas as well.
 
+**Note that Android applications may not be chosen as homework assignments, as they are covered in [their own subject](https://www.aut.bme.hu/Course/android)**.
+
 ### Complex number class
 
 Implement a `Complex` (or `Rational`) number type which is idiomatic Kotlin. Have it implement any applicable standard interfaces, and all operators that make sense for such a type. Cover the class with JUnit based tests.
