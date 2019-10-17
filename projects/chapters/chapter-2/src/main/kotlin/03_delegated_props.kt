@@ -10,7 +10,7 @@ class Constants {
         get() {
             if (pi_ == null) {
                 // Some expensive computation
-                val sum = (1..50_000).sumByDouble { 1.0 / (it * it) }
+                val sum = (1..50_000).sumByDouble { 1.0 / it / it }
                 pi_ = sqrt(sum * 6.0)
             }
             return pi_!!
@@ -32,7 +32,7 @@ class Constants {
 class DelegatedConstants {
 
     val pi: Double by lazy {
-        val sum = (1..50_000).sumByDouble { 1.0 / (it * it) }
+        val sum = (1..50_000).sumByDouble { 1.0 / it / it }
         sqrt(sum * 6.0)
     }
 
