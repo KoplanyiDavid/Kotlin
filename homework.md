@@ -10,7 +10,7 @@ Implement a `Complex` (or `Rational`) number type which is idiomatic Kotlin. Hav
 
 >Optionally, make sure that your implementation is multiplatform-ready, by placing it all in a common module. Have your tests execute on multiple platforms, at least the JVM and JavaScript.
 
-Other, similar ideas: `Vector` or `Matrix` classes with convenient operator support.
+Other, similar ideas: `Vector` (at least two, or three dimensional) or `Matrix` classes with convenient operator support.
 
 ### Game of Life
 
