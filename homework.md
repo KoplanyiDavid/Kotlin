@@ -1,8 +1,25 @@
-# Homework ideas
+# Homework
 
-Here's a list of possible homework ideas. These are here to give you pointers on the kinds of applications you may choose to create. You can choose modified versions of these ideas, or completely custom ideas as well.
+## Technical information
 
-**Note that Android applications may not be chosen as homework assignments, as they are covered in [their own subject](https://www.aut.bme.hu/Course/android)**.
+Specification requirements:
+
+- It should be an easy to open and presentable file containing what you've chosen as your assignment. Good formats: pdf, markdown, txt. Bad formats: docx, png, exe.
+- The specification can be high level. 3-10 sentences clearly describing the application that will be built is all that's expected here - keep it simple.
+
+You'll find a list of possible homework ideas below. These are here to give you pointers on the kinds of applications you may choose to create. You can choose one of these ideas directly as is, alter these ideas to suit what you feel like building, or come up with anything on your own that's of similar complexity.
+
+**Please note that Android applications may not be chosen as homework assignments, as they are covered in [their own subject](https://www.aut.bme.hu/Course/android)**.
+
+We don't expect large, complex applications to be implemented for this subject. We expect simple applications, but they have to be sensible, somewhat practical, and functional (as in operating well, not the [paradigm](https://en.wikipedia.org/wiki/Functional_programming)). Unit tests are appreciated wherever applicable.
+
+Some of the starter projects in this repository might be useful for getting started, depending on the type of application you choose:
+
+- [Pure Kotlin Gradle project](projects/starters/kotlin-gradle-starter), for command line apps
+- [JavaFX game project](projects/starters/javafx-game-starter), for simple games, with rendering and input handling
+- [TornadoFX project](projects/starters/tornadofx-starter), for TornadoFX-powered desktop UI applications
+
+## List of ideas
 
 ### Complex number class
 
@@ -15,6 +32,12 @@ Other, similar ideas: `Vector` (at least two, or three dimensional) or `Matrix` 
 ### Game of Life
 
 Implement the classic Game of Life cellular automaton. Use JavaFX/[TornadoFX](https://tornadofx.io/) for the graphical user interface, and make it interactive. Let users select and unselect cells, and start/stop/reset the simulation.
+
+### Simple games
+
+Implement a game such as snake, pacman, or tetris. Run an event loop, handle user input, and draw things on the screen, handle pausing and/or restarting the current game nicely. Optionally, save and display high scores.
+
+See [this tutorial](https://gamedevelopment.tutsplus.com/tutorials/introduction-to-javafx-for-game-development--cms-23835) and [this repository](https://github.com/tutsplus/Introduction-to-JavaFX-for-Game-Development) for good samples of doing these things in JavaFX. Similarly, you might also use [TornadoFX](https://tornadofx.io/) for this.
 
 ### Data analysis
 
