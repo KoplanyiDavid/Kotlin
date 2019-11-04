@@ -19,6 +19,8 @@ Some of the starter projects in this repository might be useful for getting star
 - [JavaFX game project](projects/starters/javafx-game-starter), for simple games, with rendering and input handling
 - [TornadoFX project](projects/starters/tornadofx-starter), for TornadoFX-powered desktop UI applications
 
+The specifications can be uploaded on the [AUT dept site, under "My results"](https://www.aut.bme.hu/Members/MyResults.aspx).
+
 ## List of ideas
 
 ### Complex number class
