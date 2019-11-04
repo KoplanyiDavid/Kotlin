@@ -23,7 +23,7 @@
 - Homework, 50 pts (min. 40%)
     - Specification by the 8th of November (week 9)
     - Final hand-in by the 13th of December (week 14)
-    - [Homework ideas (continuously updated)](./homework.md)
+    - [**Homework details and ideas**](./homework.md)
 
 Minimum scores for grades: 
 
