@@ -24,6 +24,7 @@
     - Specification by the 8th of November (week 9)
     - Final hand-in by the 13th of December (week 14)
     - [**Homework details and ideas**](./homework.md)
+- _Retake of the Test will be on the 17th of December, 12:15-13:45_
 
 Minimum scores for grades: 
 
