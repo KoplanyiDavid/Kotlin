@@ -11,7 +11,7 @@
 - [Chapter 7: Standard Library Showcase](./material/7.md)
 - [Chapter 8: Operators, Conventions, and Delegates](./material/8.md)
 - [Chapter 9: Type System and Generics](./material/9.md)
-- Chapter 10: Coroutines
+- [Chapter 10: Coroutines](./material/10.md)
 - Chapter 11: DSLs
 - More to come...
 
