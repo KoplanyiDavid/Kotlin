@@ -20,6 +20,7 @@
 - Test (ZH), 50 pts. (min. 40%)
     - 6th of December, instead of the regular lecture (week 13)
     - 2019.12.06. 12:15
+    - [Sample test](./kotlin_zh_sample.pdf)
 - Homework, 50 pts (min. 40%)
     - Specification by the 8th of November (week 9)
     - Final hand-in by the 13th of December (week 14)
