@@ -21,6 +21,10 @@ Some of the starter projects in this repository might be useful for getting star
 
 The specifications can be uploaded on the [AUT dept site, under "My results"](https://www.aut.bme.hu/Members/MyResults.aspx).
 
+## Hand-in
+
+We expect a zip file with the source code of the application created to be uploaded. Documentation is not required, but if starting and testing the project is non-trivial, a short README with instructions would be appreciated.
+
 ## List of ideas
 
 ### Complex number class
