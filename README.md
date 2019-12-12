@@ -23,11 +23,12 @@
     - [Sample test](./kotlin_zh_sample.pdf)
 - Homework, 50 pts (min. 40%)
     - Specification by the 8th of November (week 9)
-    - Final hand-in by the 13th of December (week 14)
+    - Final hand-in by the 13th of December (week 14), end of day
     - [**Homework details and ideas**](./homework.md)
-- _Retake of the Test will be on the 17th of December, 12:15-13:45_
+- _Retake of the Test will be on the 17th of December, 12:00-14:00, QBF13_
+- _Homework can be handed it with a late fee up until a week late, the 20th of December, until the end of the day_ 
 
-Minimum scores for grades: 
+Minimum scores for grades (based on the sum of test and homework scores): 
 
 - 2: 40 pts
 - 3: 55 pts
