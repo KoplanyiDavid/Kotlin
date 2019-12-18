@@ -12,7 +12,10 @@
 - [Chapter 8: Operators, Conventions, and Delegates](./material/8.md)
 - [Chapter 9: Type System and Generics](./material/9.md)
 - [Chapter 10: Coroutines](./material/10.md)
-- ...
+
+## Extras
+
+- [Resources mentioned on the last lecture](./extras/resources.md) 
 
 ## Requirements
 
