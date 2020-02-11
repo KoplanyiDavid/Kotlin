@@ -15,20 +15,19 @@
 
 ## Extras
 
-- [Resources mentioned on the last lecture](./extras/resources.md) 
+- [Resources mentioned on the last lecture, 2019 fall](./extras/resources.md) 
 
 ## Requirements
 
 - Test (ZH), 50 pts. (min. 40%)
-    - 6th of December, instead of the regular lecture (week 13)
-    - 2019.12.06. 12:15
+    - *Date to be announced later*
     - [Sample test](./kotlin_zh_sample.pdf)
+    - _There will be one retake of the test, date to be announced later_
 - Homework, 50 pts (min. 40%)
-    - Specification by the 8th of November (week 9)
-    - Final hand-in by the 13th of December (week 14), end of day
+    - Specification by the 10th of April (end of week 9)
+    - Final hand-in by the 22nd of May (week 14), end of day
     - [**Homework details and ideas**](./homework.md)
-- _Retake of the Test will be on the 17th of December, 12:00-14:00, QBF13_
-- _Homework can be handed it with a late fee up until a week late, the 20th of December, until the end of the day_ 
+    - _Homework can be handed it with a late fee up until a week late, the 29th of May, until the end of the day_ 
 
 Minimum scores for grades (based on the sum of test and homework scores): 
 
