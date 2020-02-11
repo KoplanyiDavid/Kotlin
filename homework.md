@@ -29,7 +29,7 @@ We expect a zip file with the source code of the application created to be uploa
 
 ### Complex number class
 
-Implement a `Complex` (or `Rational`) number type which is idiomatic Kotlin. Have it implement any applicable standard interfaces, and all operators that make sense for such a type. Cover the class with JUnit based tests.
+Implement a `Complex` (or `Rational`) number type which is idiomatic Kotlin. Have it implement any applicable standard interfaces, and all operators that make sense for such a type. Cover the class with JUnit based tests. *Note that if your homework is of this complexity (a single class implementation), tests are required as part of the assignment.*
 
 >Optionally, make sure that your implementation is multiplatform-ready, by placing it all in a common module. Have your tests execute on multiple platforms, at least the JVM and JavaScript.
 
