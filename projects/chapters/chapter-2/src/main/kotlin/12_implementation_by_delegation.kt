@@ -8,7 +8,7 @@ fun main() {
     goodSet.addAll(listOf(1, 2, 3, 4, 5))
     println(goodSet.addCount) // 5
 
-    val set = InstrumentedSet<Int>(HashSet())
+    val set = InstrumentedSet<Int>()
     set.addAll(listOf(1, 2, 3, 4, 5))
     println(set.addCount) // 5
 }
