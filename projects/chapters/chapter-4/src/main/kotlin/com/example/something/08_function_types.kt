@@ -2,36 +2,34 @@ package com.example.something
 
 data class Person(val name: String, val age: Int)
 
-fun getAge(person: Person): Int {
-    return person.age
+fun createGreeting(person: Person): String {
+    return "Hello, ${person.name}"
 }
 
-val ageGetter: (Person) -> Int = ::getAge
+val greetingCreator: (Person) -> String = ::createGreeting
 
-val ageGetter2: (Person) -> Int = fun(person: Person): Int {
-    return person.age
+val greetingCreator2: (Person) -> String = fun(person: Person): String {
+    return "Hello, ${person.name}"
 }
 
-val ageGetter3 = { person: Person -> person.age }
+val greetingCreator3 = { person: Person -> "Hello, ${person.name}" }
 
-val ageGetter4 = { person: Person ->
-    println("Getting the age of ${person.name}...")
-    person.age
+val greetingCreator4 = { person: Person ->
+    println("Creating greeting for ${person.name}...")
+    "Hello, ${person.name}"
 }
 
-val ageGetter5: (Person) -> Int = { person -> person.age }
+val greetingCreator5: (Person) -> String = { person -> "Hello, ${person.name}" }
 
-val ageGetter6: (Person) -> Int = { it.age }
+val greetingCreator6: (Person) -> String = { "Hello, ${it.name}" }
 
 fun main() {
     val julie = Person("Julie", 36)
 
-    println(ageGetter(julie)) // 36
-    println(ageGetter2(julie)) // 36
-    println(ageGetter3(julie)) // 36
-    println(ageGetter4(julie)) // 36
-    println(ageGetter5(julie)) // 36
-    println(ageGetter6(julie)) // 36
+    println(greetingCreator(julie)) // Hello, Julie
+    println(greetingCreator2(julie)) // Hello, Julie
+    println(greetingCreator3(julie)) // Hello, Julie
+    println(greetingCreator4(julie)) // Creating greeting for Julie... Hello, Julie
+    println(greetingCreator5(julie)) // Hello, Julie
+    println(greetingCreator6(julie)) // Hello, Julie
 }
-
-
