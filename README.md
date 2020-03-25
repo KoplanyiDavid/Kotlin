@@ -20,11 +20,11 @@
 ## Requirements
 
 - Test (ZH), 50 pts. (min. 40%)
-    - *Date to be announced later*
+    - *Date and format to be announced later*
     - [Sample test](./kotlin_zh_sample.pdf)
     - _There will be one retake of the test, date to be announced later_
 - Homework, 50 pts (min. 40%)
-    - Specification by the 10th of April (end of week 9)
+    - Specification by the 10th of April (end of week 8)
     - Final hand-in by the 22nd of May (week 14), end of day
     - [**Homework details and ideas**](./homework.md)
     - _Homework can be handed it with a late fee up until a week late, the 29th of May, until the end of the day_ 
