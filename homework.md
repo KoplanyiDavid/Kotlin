@@ -4,8 +4,10 @@
 
 Specification requirements:
 
-- It should be an easy to open and presentable file containing what you've chosen as your assignment. Good formats: pdf, markdown, txt. Bad formats: docx, png, exe.
+- It should be an easy to open and presentable file containing what you've chosen as your assignment. Good formats: pdf, markdown*, txt. Bad formats: docx, png, exe.
 - The specification can be high level. 3-10 sentences clearly describing the application that will be built is all that's expected here - keep it simple.
+
+_\* The website, unfortunately, won't accept a file with a proper markdown extension, but you can rename it to a txt or zip it to hand it in._ 
 
 You'll find a list of possible homework ideas below. These are here to give you pointers on the kinds of applications you may choose to create. You can choose one of these ideas directly as is, alter these ideas to suit what you feel like building, or come up with anything on your own that's of similar complexity.
 
