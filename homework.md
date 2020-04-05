@@ -13,7 +13,9 @@ You'll find a list of possible homework ideas below. These are here to give you 
 
 **Please note that Android applications may not be chosen as homework assignments, as they are covered in [their own subject](https://www.aut.bme.hu/Course/android)**.
 
-We don't expect large, complex applications to be implemented for this subject. We expect simple applications, but they have to be sensible, somewhat practical, and functional (as in operating well, not the [paradigm](https://en.wikipedia.org/wiki/Functional_programming)). Unit tests are appreciated wherever applicable.
+We don't expect large, complex applications to be implemented for this subject. We expect simple applications, but they have to be sensible, somewhat practical, and functional (as in operating well, not the [paradigm](https://en.wikipedia.org/wiki/Functional_programming)).
+
+Tests are not generally required. For example, you are not expected to test GUI applications or web applications - but if you add tests, it's still appreciated. However, tests are required if you implement something very simple, such as the first idea below.
 
 Some of the starter projects in this repository might be useful for getting started, depending on the type of application you choose:
 
