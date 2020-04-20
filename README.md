@@ -20,12 +20,13 @@
 ## Requirements
 
 - Test (ZH), 50 pts. (min. 40%)
-    - *Date and format to be announced later*
-    - [Sample test](./kotlin_zh_sample.pdf)
-    - _There will be one retake of the test, date to be announced later_
+    - In the timeslot of the 14th week lecture, **21st of May**, 12:15-13:45. Expected to be done in Moodle, details later.
+    - [Sample test PDF](./kotlin_zh_sample.pdf)
+    - [Sample test in Moodle](https://edu.vik.bme.hu/mod/quiz/view.php?id=14201)
+    - _There will be one retake of the test, date to be announced later. Expect it to be about a week after the regular test._
 - Homework, 50 pts (min. 40%)
-    - Specification by the 10th of April (end of week 8)
-    - Final hand-in by the 22nd of May (week 14), end of day
+    - ~~Specification by the 10th of April (end of week 8)~~
+    - Final hand-in by the **22nd of May** (week 14), end of day
     - [**Homework details and ideas**](./homework.md)
     - _Homework can be handed it with a late fee up until a week late, the 29th of May, until the end of the day_ 
 
