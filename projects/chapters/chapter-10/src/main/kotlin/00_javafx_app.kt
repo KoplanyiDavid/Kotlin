@@ -76,7 +76,12 @@ class JobApp : Application() {
     }
 
     private fun performSearch() {
-        getJobDetailsWithRx(textField.text.trim(), tableView)
+        getJobDetailsBlocking(textField.text.trim(), tableView)
+//        getJobDetailsWithCallbacks(textField.text.trim(), tableView)
+//        getJobDetailsWithFutures(textField.text.trim(), tableView)
+//        getJobDetailsWithRx(textField.text.trim(), tableView)
+//        getJobDetailsCoroutines(textField.text.trim(), tableView)
+//        getJobDetailsCoroutinesApi(textField.text.trim(), tableView)
     }
 
 }
