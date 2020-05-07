@@ -70,6 +70,9 @@ class JobApp : Application() {
         root.children.add(bottomLayout)
 
         primaryStage.show()
+
+        // Dummy call to create API instance
+        gitHubJobsApi
     }
 
     private fun performSearch() {

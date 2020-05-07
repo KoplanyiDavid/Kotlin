@@ -15,14 +15,15 @@ interface GitHubJobsApi {
     fun getPositionDetails(@Path("id") id: String): Call<JobDetails>
 }
 
-private fun gitHubJobsApi(): GitHubJobsApi {
-    val jobs = Retrofit.Builder()
-        .baseUrl("https://jobs.github.com/")
-        .addConverterFactory(MoshiConverterFactory.create())
-        .build()
-    val api = jobs.create<GitHubJobsApi>()
-    return api
-}
+val gitHubJobsApi: GitHubJobsApi
+    get() {
+        val jobs = Retrofit.Builder()
+            .baseUrl("https://jobs.github.com/")
+            .addConverterFactory(MoshiConverterFactory.create())
+            .build()
+        val api = jobs.create<GitHubJobsApi>()
+        return api
+    }
 
 interface BlockingApi {
     fun search(query: String): List<JobSummary>
@@ -30,7 +31,7 @@ interface BlockingApi {
 }
 
 class BlockingApiImpl : BlockingApi {
-    private val api = gitHubJobsApi()
+    private val api = gitHubJobsApi
 
     override fun search(query: String): List<JobSummary> {
         return api.getPositions(query).execute().body()!!
