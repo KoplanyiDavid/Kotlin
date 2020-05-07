@@ -45,7 +45,7 @@ fun getJobDetailsBlocking(query: String, tableView: TableView<JobDetails>) {
     val api: BlockingApi = BlockingApiImpl()
 
     val jobSummaries = api.search(query) // blocking network call
-    val details = jobSummaries.map {  summary ->
+    val details = jobSummaries.map { summary ->
         api.getDetails(summary.id) // blocking network calls
     }
 

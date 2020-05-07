@@ -1,5 +1,6 @@
 import io.reactivex.rxjava3.core.Observable
 import io.reactivex.rxjava3.core.Single
+import io.reactivex.rxjava3.schedulers.Schedulers
 import javafx.scene.control.TableView
 
 interface RxApi {
@@ -32,7 +33,8 @@ fun getJobDetailsWithRx(query: String, tableView: TableView<JobDetails>) {
         }
         .flatMapSingle { rxApi.getDetails(it.id) }
         .toList()
-        .subscribeOn(JavaFxScheduler.platform())
+        .subscribeOn(Schedulers.io())
+        .observeOn(JavaFxScheduler.platform())
         .subscribe { results: List<JobDetails> ->
             tableView.setData(results)
         }
