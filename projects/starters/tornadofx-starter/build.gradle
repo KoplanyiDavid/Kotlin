@@ -26,7 +26,7 @@ dependencies {
     implementation "no.tornado:tornadofx:$tornadofx_version"
 }
 
-mainClassName = "com.example.demo.app.MyApp"
+mainClassName = "com.example.demo.MyApp"
 
 jar {
     manifest {
