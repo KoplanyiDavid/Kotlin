@@ -20,10 +20,10 @@
 ## Requirements
 
 - Test (ZH), 50 pts. (min. 40%)
-    - In the timeslot of the 14th week lecture, **21st of May**, 12:15-13:45, in Moodle.
+    - In the timeslot of the 14th week lecture, **21st of May**, 12:15-13:15, in Moodle.
     - [Sample test PDF](./kotlin_zh_sample.pdf)
     - [Sample test in Moodle](https://edu.vik.bme.hu/mod/quiz/view.php?id=14201)
-    - _There will be one retake of the test, one week after the regular test. 28th of May, 12:15-13:45, in Moodle._
+    - _There will be one retake of the test, one week after the regular test. 28th of May, 12:15-13:15, in Moodle._
 - Homework, 50 pts (min. 40%)
     - [**Homework details and ideas**](./homework.md)
     - ~~Specification by the 10th of April (end of week 8)~~
