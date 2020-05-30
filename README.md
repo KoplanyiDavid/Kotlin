@@ -27,7 +27,7 @@
 - Homework, 50 pts (min. 40%)
     - [**Homework details and ideas**](./homework.md)
     - ~~Specification by the 10th of April (end of week 8)~~
-    - Final hand-in by the **22nd of May** (week 14), end of day.
+    - ~~Final hand-in by the **22nd of May** (week 14), end of day.~~
     - ~~_Homework can be handed it with a late fee up until a week late, the 29th of May, until the end of the day._~~
 
 Minimum scores for grades (based on the sum of test and homework scores): 
