@@ -62,3 +62,4 @@
 - [zsmb.co](https://zsmb.co)
 - [@zsmb13](https://twitter.com/zsmb13)
 - [@stewemetal](https://twitter.com/stewemetal)
+- [kdavid](koplanyidavid@gmail.com)
